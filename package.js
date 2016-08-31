@@ -1,7 +1,8 @@
 Package.describe({
-    name: 'dicomweb',
+    name: 'lancelotsmith:dicomweb',
     summary: 'DICOM Web Helper Functions',
-    version: '0.0.1'
+    version: '0.0.1',
+    git:"https://github.com/lancelotsmith/dicomweb.git"
 });
 
 Package.onUse(function(api) {
